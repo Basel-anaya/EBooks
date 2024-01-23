@@ -6,7 +6,7 @@ Welcome to the AI Book Collection repository! This repository contains a curated
 
 | Book Name                                 | Date of Publish | Link                                        |
 | ----------------------------------------- | --------------- | ------------------------------------------- |
-| Natural Language Processing Python and NLTK | 2016 | [Download]([#](https://github.com/Basel-anaya/EBooks/files/14029203/Nitin.Hardeniya.Jacob.Perkins.Deepti.Chopra.Nisheeth.Joshi.Iti.Mathur.-.Natural.Language.Processing_.Python.and.NLTK-Packt.Publishing.2016.pdf))  |
+| Natural Language Processing Python and NLTK | 2016 | [Download](https://github.com/Basel-anaya/EBooks/files/14029203/Nitin.Hardeniya.Jacob.Perkins.Deepti.Chopra.Nisheeth.Joshi.Iti.Mathur.-.Natural.Language.Processing_.Python.and.NLTK-Packt.Publishing.2016.pdf) |
 
 Feel free to explore and download the books based on your interest!
 
