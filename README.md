@@ -1,5 +1,4 @@
 # EBooks
-[Nitin Hardeniya, Jacob Perkins, Deepti Chopra, Nisheeth Joshi, Iti Mathur - -Packt Publishing (2016).pdf]()
 
 Welcome to the AI Book Collection repository! This repository contains a curated collection of digital books focused on various AI fields, including Natural Language Processing (NLP) and Computer Vision (CV).
 
