@@ -7,6 +7,7 @@ Welcome to the AI EBooks Collection repository! This carefully curated selection
 | **Book Name**                              | **Date of Publish** | **Download Link**                                                                                                     |
 | ----------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Natural Language Processing with Python and NLTK** | 2016 | [Download PDF](https://github.com/Basel-anaya/EBooks/files/14029203/Nitin.Hardeniya.Jacob.Perkins.Deepti.Chopra.Nisheeth.Joshi.Iti.Mathur.-.Natural.Language.Processing_.Python.and.NLTK-Packt.Publishing.2016.pdf) |
+| **Natural Language Processing with Transformers** | 2022 | [Download PDF](https://github.com/Basel-anaya/EBooks/files/14040047/natural-language-processing-with-transformers-revised-edition-1098136799-9781098136796-9781098103248_compress.pdf)|
 
 Feel free to explore and download the books based on your interest!
 
